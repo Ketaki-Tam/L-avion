@@ -6,9 +6,9 @@ A website that helps users book flights online .User need to enter their depatur
 1) install npm
 2) intall react
 3) go the folder containg the src,public folders in  the terminal.
-4) type ```npm run build``` followed by ```npm start```.
-5) the website will load in the default browser of the user.
-6) the website is user friendly ,so browse through and enjoy.
+4) Type ```npm run build``` followed by ```npm start```.
+5) The website will load in the default browser of the user.
+6) The website is user friendly ,so browse through and enjoy.
 
 
 
