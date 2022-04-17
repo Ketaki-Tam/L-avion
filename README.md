@@ -26,12 +26,6 @@ A website that helps users book flights online .User need to enter their depatur
 4) The signin and login pages requires the users to give corresponding inputs which will then eventually lead them to home page.
 5) Clicking the book option on the booking page will take you to the payment gateway which will then take you to the confirmation page upon succesfull payment.
 
-# Our Struggles 
-1) Didnot know HTML and CSS,learnt it within a span of 3 days.
-2) had problems in downloading npm and react.
-3) had problems in linking bootstrap and react.
-4) we did find a few solutions online and that helped us overcome these difficulties.
-
 # Developed by:
 1) Ketaki Tamhanakar
 2) M Srinivasan
